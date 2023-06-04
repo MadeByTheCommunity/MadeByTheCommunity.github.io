@@ -1,0 +1,115 @@
+---
+description: for Star Citizen Community Developers
+---
+
+# Collaboration Accelerator
+
+## Open Principles
+
+Thriving communities are dedicated to open principles. [Citizen Developers](#user-content-fn-1)[^1] agree to uphold these principles in their projects:
+
+* [Open Development](collaboration-accelerator.md#open-development)
+* [Open Contribution](collaboration-accelerator.md#open-contribution)
+* [Open Standards](collaboration-accelerator.md#open-standards)
+* [Open API](collaboration-accelerator.md#open-api)
+
+This organization represents a personal passion to enable this vision.
+
+### What this does and does not mean
+
+> “free” as in “free speech” not as in “free beer” -- GNU / Free Software Foundation
+
+#### Open Development
+
+Agreeing to these principles does _not_ mean that [Citizen Developers](#user-content-fn-2)[^2] lose creative control over their projects. This does _not_ mean that [Citizen Developers](#user-content-fn-3)[^3] must choose an [open-source license](#user-content-fn-4)[^4]. It also does _not_ mean that [Citizen Developers](#user-content-fn-5)[^5] cannot solicit and accept financial support (quite the opposite in fact!) because the goal is healthy and sustainable development.
+
+What this means is that [Citizen Developers](#user-content-fn-6)[^6] agree to be open with their project development, such as using a public repository on GitHub. [Citizen Developers](#user-content-fn-7)[^7] agree to make the tool freely accessible to Citizens[^8] without a paywall or ORG[^9] [membership requirement](#user-content-fn-10)[^10]. [Citizen Developers](#user-content-fn-11)[^11] are encouraged to provide a means of quick access to elective donations, RSI referral code signups and invitations to their dedicated community sites such as Discord and RSI ORG.
+
+#### Open Contribution
+
+This does _not_ mean that [Citizen Developers](#user-content-fn-12)[^12] must allow everyone to be a contributor in their project. What this means is that [Citizen Developers](#user-content-fn-13)[^13] agree to participate in dialog with other Citizen Developers3 to share experiences and best practices. [Citizen Developers](#user-content-fn-14)[^14] also agree to consider the input and collaboration opportunities that the broader community of Citizens[^15] can offer them.
+
+#### Open Standards
+
+[Citizen Developers](#user-content-fn-16)[^16] agree to collaborate on, establish and leverage existing draft specification standards for game data. This ensures that best practices for handling game data can be implemented and benefit all projects. This also reduces redundant work trying to solve when breaking changes occur on the RSI website or [Star Citizen](#user-content-fn-17)[^17] game side and member projects can regain functionality more quickly. Open standards provide a consistent means of exporting, importing and updating game data and hangar data between projects. The ultimate goal is maximizing the value that Citizens[^18] derive from using projects from [Citizen Developers](#user-content-fn-19)[^19].
+
+#### Open API
+
+This does not mean that every project must have an API. However, whenever it makes sense, [Citizen Developers](#user-content-fn-20)[^20] agree to make their project accessible from and interoperable through the use of an API that leverages the Open Standards above. Tools such as an app that collects hangar information or provides fleet viewing.
+
+#### Conclusion
+
+Congratulations! So, you got to the end of the Quick Start, you must be interested. Please be sure to follow the links to get more information and become a [Citizen Developer](#user-content-fn-21)[^21] or Citizen member of Made By The Community projects. You can use the Sponsor button to view quick links.
+
+
+
+{% hint style="info" %}
+**Become a Citizen Developer:** If all this sounds appealing to you, join our Discord server to begin collaborating with other community developers now!
+{% endhint %}
+
+[^1]: **Citizen Developers:**\
+    Made By The Community member community developers
+
+[^2]: **Citizen Developers:**\
+    Made By The Community member community developers
+
+[^3]: **Citizen Developers:**\
+    Made By The Community member community developers
+
+[^4]: Although it is encouraged unless you intend to start a business \
+    (e.g., GameGlass).
+
+[^5]: **Citizen Developers:**\
+    Made By The Community member community developers
+
+[^6]: **Citizen Developers:**
+
+    Made By The Community member community developers
+
+[^7]: **Citizen Developers:**
+
+    Made By The Community member community developers
+
+[^8]: End users playing Star Citizen
+
+[^9]: RSI Organization
+
+[^10]: This is different from making accounts which are more for the benefit of the user to save their data and preferences.
+
+[^11]: **Citizen Developers:**
+
+    Made By The Community member community developers
+
+[^12]: **Citizen Developers:**
+
+    Made By The Community member community developers
+
+[^13]: **Citizen Developers:**
+
+    Made By The Community member community developers
+
+[^14]: **Citizen Developers:**
+
+    Made By The Community member community developers
+
+[^15]: End users playing Star Citizen
+
+[^16]: **Citizen Developers:**
+
+    Made By The Community member community developers
+
+[^17]: "The best damn space sim ever."
+
+[^18]: End users playing Star Citizen
+
+[^19]: **Citizen Developers:**
+
+    Made By The Community member community developers
+
+[^20]: **Citizen Developers:**
+
+    Made By The Community member community developers
+
+[^21]: **Citizen Developers:**
+
+    Made By The Community member community developers
