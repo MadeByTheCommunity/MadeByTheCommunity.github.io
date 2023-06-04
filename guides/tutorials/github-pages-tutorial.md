@@ -12,7 +12,7 @@ description: >-
 
 ## GitHub Pages
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Pro Tip:** Get a great quick start with the very helpful information on [GitHub Pages](https://pages.github.com/).
 {% endhint %}
 

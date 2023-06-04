@@ -12,8 +12,8 @@ Creating a community where Community Developers collaborate, establish standards
 
 If you are considering starting (or already do) development of a mod or app for Star Citizen, please take a couple minutes to read this.
 
-{% content-ref url="collaboration-accelerator.md" %}
-[collaboration-accelerator.md](collaboration-accelerator.md)
+{% content-ref url="citizen-developers.md" %}
+[citizen-developers.md](citizen-developers.md)
 {% endcontent-ref %}
 
 ## Want to jump right in?

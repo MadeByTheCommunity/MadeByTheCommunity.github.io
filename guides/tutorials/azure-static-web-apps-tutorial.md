@@ -12,7 +12,7 @@ description: >-
 
 ## Azure Static Web Apps
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Pro Tip:** Get a great quick start with the very helpful information on [Microsoft Learn](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website).
 {% endhint %}
 

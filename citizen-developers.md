@@ -1,17 +1,17 @@
 ---
-description: for Star Citizen Community Developers
+description: Collaboration Accelerator for Star Citizen Community Developers
 ---
 
-# Collaboration Accelerator
+# Citizen Developers
 
 ## Open Principles
 
 Thriving communities are dedicated to open principles. [Citizen Developers](#user-content-fn-1)[^1] agree to uphold these principles in their projects:
 
-* [Open Development](collaboration-accelerator.md#open-development)
-* [Open Contribution](collaboration-accelerator.md#open-contribution)
-* [Open Standards](collaboration-accelerator.md#open-standards)
-* [Open API](collaboration-accelerator.md#open-api)
+* [Open Development](citizen-developers.md#open-development)
+* [Open Contribution](citizen-developers.md#open-contribution)
+* [Open Standards](citizen-developers.md#open-standards)
+* [Open API](citizen-developers.md#open-api)
 
 This organization represents a personal passion to enable this vision.
 
@@ -27,19 +27,19 @@ What this means is that [Citizen Developers](#user-content-fn-6)[^6] agree to be
 
 #### Open Contribution
 
-This does _not_ mean that [Citizen Developers](#user-content-fn-12)[^12] must allow everyone to be a contributor in their project. What this means is that [Citizen Developers](#user-content-fn-13)[^13] agree to participate in dialog with other Citizen Developers3 to share experiences and best practices. [Citizen Developers](#user-content-fn-14)[^14] also agree to consider the input and collaboration opportunities that the broader community of Citizens[^15] can offer them.
+This does _not_ mean that [Citizen Developers](#user-content-fn-12)[^12] must allow everyone to be a contributor in their project. What this means is that [Citizen Developers](#user-content-fn-13)[^13] agree to participate in dialog with other [Citizen Developers](#user-content-fn-14)[^14] to share experiences and best practices. [Citizen Developers](#user-content-fn-15)[^15] also agree to consider the input and collaboration opportunities that the broader community of Citizens[^16] can offer them.
 
 #### Open Standards
 
-[Citizen Developers](#user-content-fn-16)[^16] agree to collaborate on, establish and leverage existing draft specification standards for game data. This ensures that best practices for handling game data can be implemented and benefit all projects. This also reduces redundant work trying to solve when breaking changes occur on the RSI website or [Star Citizen](#user-content-fn-17)[^17] game side and member projects can regain functionality more quickly. Open standards provide a consistent means of exporting, importing and updating game data and hangar data between projects. The ultimate goal is maximizing the value that Citizens[^18] derive from using projects from [Citizen Developers](#user-content-fn-19)[^19].
+[Citizen Developers](#user-content-fn-17)[^17] agree to collaborate on, establish and leverage existing draft specification standards for game data. This ensures that best practices for handling game data can be implemented and benefit all projects. This also reduces redundant work trying to solve when breaking changes occur on the RSI website or [Star Citizen](#user-content-fn-18)[^18] game side and member projects can regain functionality more quickly. Open standards provide a consistent means of exporting, importing and updating game data and hangar data between projects. The ultimate goal is maximizing the value that Citizens[^19] derive from using projects from [Citizen Developers](#user-content-fn-20)[^20].
 
 #### Open API
 
-This does not mean that every project must have an API. However, whenever it makes sense, [Citizen Developers](#user-content-fn-20)[^20] agree to make their project accessible from and interoperable through the use of an API that leverages the Open Standards above. Tools such as an app that collects hangar information or provides fleet viewing.
+This does not mean that every project must have an API. However, whenever it makes sense, [Citizen Developers](#user-content-fn-21)[^21] agree to make their project accessible from and interoperable through the use of an API that leverages the Open Standards above. Tools such as an app that collects hangar information or provides fleet viewing.
 
-#### Conclusion
+### Conclusion
 
-Congratulations! So, you got to the end of the Quick Start, you must be interested. Please be sure to follow the links to get more information and become a [Citizen Developer](#user-content-fn-21)[^21] or Citizen member of Made By The Community projects. You can use the Sponsor button to view quick links.
+Congratulations! So, you got to the end of the Quick Start, you must be interested. Please be sure to follow the links to get more information and become a [Citizen Developer](#user-content-fn-22)[^22] or Citizen Supporter of _Made By The Community_ projects.&#x20;
 
 
 
@@ -92,24 +92,28 @@ Congratulations! So, you got to the end of the Quick Start, you must be interest
 
     Made By The Community member community developers
 
-[^15]: End users playing Star Citizen
-
-[^16]: **Citizen Developers:**
+[^15]: **Citizen Developers:**
 
     Made By The Community member community developers
 
-[^17]: "The best damn space sim ever."
+[^16]: End users playing Star Citizen
 
-[^18]: End users playing Star Citizen
-
-[^19]: **Citizen Developers:**
+[^17]: **Citizen Developers:**
 
     Made By The Community member community developers
+
+[^18]: "The best damn space sim ever."
+
+[^19]: End users playing Star Citizen
 
 [^20]: **Citizen Developers:**
 
     Made By The Community member community developers
 
 [^21]: **Citizen Developers:**
+
+    Made By The Community member community developers
+
+[^22]: **Citizen Developers:**
 
     Made By The Community member community developers

@@ -12,7 +12,7 @@ description: >-
 
 ## Discord Community Server
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Pro Tip:** Get a great quick start with the very helpful information on [Discord Support](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server).
 {% endhint %}
 
