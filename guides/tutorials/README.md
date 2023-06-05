@@ -17,3 +17,7 @@ Helpful How-To pages for getting started or improving the quality of your develo
 {% content-ref url="discord-community-server-tutorial.md" %}
 [discord-community-server-tutorial.md](discord-community-server-tutorial.md)
 {% endcontent-ref %}
+
+{% content-ref url="link-buttons-tutorial.md" %}
+[link-buttons-tutorial.md](link-buttons-tutorial.md)
+{% endcontent-ref %}
