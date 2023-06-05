@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MadeByTheCommunity.dev](README.md)
+* [Made By The Community](README.md)
 * [Citizen Developers](citizen-developers.md)
 
 ## Reference
