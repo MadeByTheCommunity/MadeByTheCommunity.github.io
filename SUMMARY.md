@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Made By The Community](README.md)
+  * [About](readme/about.md)
 * [Citizen Developers](citizen-developers.md)
 
 ## Reference
@@ -8,7 +9,7 @@
 * [Quick Start](reference/quick-start/README.md)
   * [Repositories](reference/quick-start/repositories.md)
   * [Licenses](reference/quick-start/licenses.md)
-  * [Languages](reference/quick-start/languages.md)
+  * [Code Languages](reference/quick-start/languages.md)
   * [Website TLDs](reference/quick-start/website-tlds.md)
 * [Reference Lists](reference/reference-lists/README.md)
   * [Community Tools Reference](reference/reference-lists/community-tools-reference.md)
